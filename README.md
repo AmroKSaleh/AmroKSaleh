@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning .ts and .js Backend development.
 - 💞️ I’m looking to collaborate on opensource projects and educational content.
 - 🏫 Currently studying electronics engineering at Yarmouk University.
-- 📫 You can reach me through my email at amrosaleh63@gmail.com.
+- 📫 You can reach me through my email at amro@jameedium.org.
