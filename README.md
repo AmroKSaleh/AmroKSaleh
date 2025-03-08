@@ -7,4 +7,4 @@
 
 As a director I love storytelling, story writing and filmmaking. Currently working on a Sci-fi short film (pre-production), and on a feature film franchise(Story & Charachter development).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyNinja1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmroKSaleh&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
