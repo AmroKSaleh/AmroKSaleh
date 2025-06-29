@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmroKSaleh a 20 years old engineer/developer/director.
+- 👋 Hi, I’m @AmroKSaleh a 22 years old engineer/developer/director.
 - 👀 I’m interested in creating opensource projects and educational content.
 - 🌱 I’m currently learning .ts and .js Backend development.
 - 💞️ I’m looking to collaborate on opensource projects, movies and educational content.
